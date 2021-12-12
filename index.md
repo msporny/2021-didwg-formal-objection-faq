@@ -1,3 +1,6 @@
+---
+redirect_to: https://www.w3.org/2019/did-wg/faqs/2021-formal-objections/
+---
 ## DID Formal Objection FAQ
 
 This document is an informative document that has been reviewed, 
